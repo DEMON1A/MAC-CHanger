@@ -1,0 +1,10 @@
+=========================
+1: git clone https://www.github.com/DEMON1A/MAC-CHanger
+2: cd MAC-CHange.O
+3: python3 Mac-Changer.py
+=========================
+1: Run Script with --help >> python3 Mac-Changer.py --help
+2: it will show you how to use it
+3: Enter python3 Mac-Changer.py -i "Enter here interface name" -m "Enter here New Mac Address"
+4: Only wait few seconds
+=========================

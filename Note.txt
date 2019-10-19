@@ -1,0 +1,19 @@
+>> This TOOL For Linux Only ! 
+>> Wait For Update Soon !
+>> Visit My Github For More Toolz        #>> https://www.github.com/DEMON1A
+>> You Can Fork Or Edit Script Add All you want And Put your name
+>> There is 2 types of this script first a normal program but gthe second made with optparse
+
+>> Contact Me if You Nead Any Thing :
+	Email: mdaif1332@gmail.com
+	Github: https://www.github.com/DEMON1A
+
+>> Enter --help with script to show how to use #>> python3 Mac-Changer.py --help
+>> In InterFace Enter The EnterFace Name Like   #> wlan0 or ethr0
+>> In Mac Address Input Enter the New Mac Address For put It In the InterFace
+	Ex: 00:22:55:11:77:44
+
+>/> MAC address should be 12 numbers You Can Enter Any 12 numbers
+
+>> This Tool Made By: Mohamed Dief
+ 

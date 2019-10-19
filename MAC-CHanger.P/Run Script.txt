@@ -1,0 +1,9 @@
+=========================
+1: git clone https://www.github.com/DEMON1A/MAC-CHanger
+2: cd MAC-CHange.P
+3: python3 Mac-Changer.py
+=========================
+1: Enter The interface name like >> wlan0 
+2: Enter new MAC like >> 00:11:22:33:44:55
+3: Wait few seconds
+=========================
